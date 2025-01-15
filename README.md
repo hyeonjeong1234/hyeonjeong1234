@@ -57,7 +57,7 @@ VEDA 최종프로젝트<br/>
   
   <!-- Build Systems -->
   <h3>Build Systems</h3>
-  <img src="https://skillicons.dev/icons?i=cmake"> <h3> - Make</h3>
+  <img src="https://skillicons.dev/icons?i=cmake" /> <h3> - Make</h3>
 
   <!-- Operating Systems -->
   <h3>Operating Systems</h3>
@@ -70,11 +70,12 @@ VEDA 최종프로젝트<br/>
   
   <!-- Tools & Libraries -->
   <h3>Tools & Libraries</h3>
+  <img src="https://github.com/user-attachments/assets/c5455253-f46a-4b81-9bfc-2edef3b1f407" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=visualstudio,qt,git,github,opencv" />
-  ![file-type-vscode 256x254](https://github.com/user-attachments/assets/e8d52458-a33c-4d9b-be3b-cd2edf9ffb2a)
+  
 
+  
 </div>
-
 
 ---
 
