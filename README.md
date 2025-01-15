@@ -20,7 +20,7 @@ VEDA 최종프로젝트<br/>
 <br/>
 [![hyeonjeong1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjeong1234&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-# 👋 Hi, I'm Hyeonjeong1234!
+# 👋 Hi, I'm Hyeonjeong!
 
 **An enthusiastic developer with a passion for Embedded Systems and Software Development.**
 
