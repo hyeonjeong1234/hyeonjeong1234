@@ -72,7 +72,10 @@ VEDA 최종프로젝트<br/>
 
 ---
 
-<br/>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyeonjeong1234"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyeonjeong1234&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyeonjeong1234"
+  width="600"
+  height="300"
+/>
 </a>
