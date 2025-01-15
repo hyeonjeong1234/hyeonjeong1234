@@ -40,19 +40,41 @@ VEDA 최종프로젝트<br/>
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hyeonjeong1234&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="hyeonjeong1234's GitHub stats" />
-  </a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hyeonjeong1234&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="hyeonjeong1234's GitHub stats" /  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjeong1234&layout=compact&theme=radical" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjeong1234&layout=compact" />
   </a>
 </div>
 
 ---
 
 ## 🔧 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,cmake,raspberrypi,ros,opencv" />
+<div align="left">
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <br/>
+  
+  <!-- Build Systems -->
+  <h3>Build Systems</h3>
+  <img src="https://skillicons.dev/icons?i=cmake"> <h3> - Make</h3>
+
+  <!-- Operating Systems -->
+  <h3>Operating Systems</h3>
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi,ros" />
+  <br/>
+  
+  <!-- Compilers -->
+  <h3>Compilers</h3>
+  <h3>- gcc <br/>- g++</h3>
+  
+  <!-- Tools & Libraries -->
+  <h3>Tools & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=visualstudio,qt,git,github,opencv" />
+  ![file-type-vscode 256x254](https://github.com/user-attachments/assets/e8d52458-a33c-4d9b-be3b-cd2edf9ffb2a)
+
 </div>
+
 
 ---
 
