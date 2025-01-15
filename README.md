@@ -69,3 +69,10 @@ VEDA 최종프로젝트<br/>
 ---
 
 ✨ *"Striving for innovation and excellence in embedded systems and software development!"*
+
+---
+
+<br/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hyeonjeong1234"/>
+</a>
