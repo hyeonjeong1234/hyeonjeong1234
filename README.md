@@ -31,12 +31,6 @@ VEDA 최종프로젝트<br/>
 
 ---
 
-## 🏆 VEDA Final Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedaHighPass&repo=veda-qt-highpass-client)](https://github.com/VedaHighPass/veda-qt-highpass-client)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedaHighPass&repo=veda-qt-highpass-server)](https://github.com/VedaHighPass/veda-qt-highpass-server)
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -80,8 +74,18 @@ VEDA 최종프로젝트<br/>
 ---
 
 ## 🏅 Key Projects
-- **C++ Project**<br/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parseyoung&repo=Oliveyoung)](https://github.com/parseyoung/Oliveyoung)
+
+- **🏆 VEDA Final Project**<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedaHighPass&repo=veda-qt-highpass-client)](https://github.com/VedaHighPass/veda-qt-highpass-client)  
+
+- **MiniProject**<br/>
+  - *C++ Project*<br/>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=Oliveyoung)](https://github.com/hyeonjeong1234/Oliveyoung)
+  - *QT Project*<br/>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=qt-chat-project)](https://github.com/hyeonjeong1234/qt-chat-project)
+  - *ROS Project*<br/>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=new-clothing-store)](https://github.com/hyeonjeong1234/new-clothing-store)
+
 ---
 
 ## 🌐 Contact
