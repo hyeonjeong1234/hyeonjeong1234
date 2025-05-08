@@ -85,14 +85,15 @@ VEDA 최종프로젝트<br/>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=qt-chat-project)](https://github.com/hyeonjeong1234/qt-chat-project)
   - *ROS Project*<br/>
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=new-clothing-store)](https://github.com/hyeonjeong1234/new-clothing-store)
-
+- **Algorithm Study**<br/>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=Baekjoon)](https://github.com/hyeonjeong1234/Baekjoon)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyeonjeong1234&repo=study-algorithm)](https://github.com/hyeonjeong1234/study-algorithm)
 ---
 
 ## 🌐 Contact
-- 💼 [LinkedIn](#) *(Add your LinkedIn profile here)*
-- 📧 **Email**: hyeonjeong1234@example.com  
-- 🌐 **Portfolio**: [YourWebsite](#) *(Add your portfolio link here)*
-
+- 💼 [LinkedIn](#) 
+- 📧 **Email**: 
+- 🌐 **Portfolio**: 
 ---
 
 ✨ *"Striving for innovation and excellence in embedded systems and software development!"*
